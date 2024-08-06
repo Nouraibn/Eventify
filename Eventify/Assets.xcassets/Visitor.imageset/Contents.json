@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "saudi female we 18d18048-3a3d-468d-b7d7-0f56e3e90efa.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
